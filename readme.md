@@ -10,7 +10,7 @@
 
 ### Действия в терминале
 
-<img width="570" alt="Снимок экрана 2024-05-01 в 22 07 05" src="https://github.com/VladimirAvstriiskii/TZ1/assets/142047091/2e31b260-0cbf-4a47-9b67-4ab6117a25e7">
+<img width="572" alt="image" src="https://github.com/VladimirAvstriiskii/TZ1/assets/142047091/4b2e298a-97a5-41b6-913e-4be252d7c56a">
 
 ### Результат в выходной директории
 
