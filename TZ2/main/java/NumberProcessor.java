@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Main {
+public class NumberProcessor {
     public static void main(String[] args) {
         int[] numbers = readNumbersFromFile("numbers.txt");
         System.out.println("Минимальное: " + _min(numbers));
